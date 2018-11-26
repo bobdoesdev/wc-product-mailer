@@ -1,0 +1,13 @@
+To do:
+
+maybe:
+-create user role
+-add selection from user role on settings page
+--namespace the plugin for ease of use/updates
+
+
+
+
+
+Form Stuff
+-add in some human verification
